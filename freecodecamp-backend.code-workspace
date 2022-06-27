@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "boilerplate-express",
+			"path": "../boilerplate-express"
+		}
+	],
+	"settings": {}
+}
