@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Amanda Varella",
 	"description": "My first project in node",
-	"keywords": ["descriptive","related","words","learning"],
+	"keywords": ["descriptive","related","words","learning","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
