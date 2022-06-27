@@ -4,6 +4,7 @@
 	"description": "My first project in node",
 	"keywords": ["descriptive","related","words","learning","freecodecamp"],
 	"license": "personal use",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
