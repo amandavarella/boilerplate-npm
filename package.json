@@ -3,6 +3,7 @@
 	"author": "Amanda Varella",
 	"description": "My first project in node",
 	"keywords": ["descriptive","related","words","learning","freecodecamp"],
+	"license": "personal use",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
