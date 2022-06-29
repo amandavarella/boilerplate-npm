@@ -8,5 +8,7 @@
 			"path": "../boilerplate-express"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boilerplate-express"
+	}
 }
